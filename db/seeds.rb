@@ -5,6 +5,6 @@ $num = 10
 $o = ( 0..9 ).to_a
 
 while $i < $num do
-puts("movies: #$o belongs to author #$i" )
+puts("books: #$o belongs to author #$i" )
 $i +=1
 end
